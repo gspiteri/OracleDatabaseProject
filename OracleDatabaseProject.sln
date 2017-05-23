@@ -1,0 +1,12 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{218574D1-FF94-4B95-8577-A6D58C11C315}") = "OracleDatabaseProject", "OracleDatabaseProject\OracleDatabaseProject.oradbproj", "{C0E81E11-97CB-4922-BCAB-37FCDCD46D4F}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
